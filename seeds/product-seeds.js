@@ -1,5 +1,3 @@
-// product-seeds.js
-
 const { Product } = require('../models');
 
 const productData = [

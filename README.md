@@ -40,7 +40,7 @@ Similar routes are available for products (`/api/products`) and tags (`/api/tags
 
 ## Demo
 
-Watch a demo of the application in action [here](https://drive.google.com/file/d/13CGnxdqI97CHEqEXv5ROHk6mqhWai9wo/view).
+Watch a demo of the application in action [here](https://drive.google.com/file/d/1vW_79yMliXjXpNarYf11loYV0cH5EKoj/view?usp=sharing).
 
 ## Contributing
 
